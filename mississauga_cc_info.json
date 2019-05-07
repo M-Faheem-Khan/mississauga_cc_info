@@ -27,7 +27,7 @@
     },
     {
       "name": "Iceland",
-      "address": " 705 Matheson Blvd. E., Mississauga, ON L4Z 3X9",
+      "address": " 705 Matheson Blvd. E., Mississauga, ON, L4Z 3X9",
       "phone": "905-615-3200 ext. 2030"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "name": "Courtneypark Branch Library and Active Living Centre",
-      "address": "730 Courtneypark Dr. W., Mississauga, ON",
+      "address": "730 Courtneypark Dr. W., Mississauga, ON, L5W 1L9",
       "phone": "905-615-4780"
     },
     {
       "name": "Churchill Meadows Branch Library and Active Living Centre",
-      "address": "3801 Thomas Street, Mississauga, ON",
+      "address": "3801 Thomas Street, Mississauga, ON, L5M 7G2",
       "phone": "905-615-4750"
     }
   ]
